@@ -1,5 +1,9 @@
 # taller06
 
+# Integrantes
+
+### Oliver Pinos, Jonathan Coronel
+
 ### Problemática
 
 * Crear un proceso de importación de datos. Desde la siguiente dirección web a una base de datos local. Usar sqlite como gestor de base de datos y además usar la librería SqlAlchemy para la creación de la entidad, guardar registros y consulta de información.
